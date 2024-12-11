@@ -80,9 +80,9 @@ DATABASES = {
     'default': {
 
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'SMS',      # Replace with your PostgreSQL database name
-        'USER': 'postgres',      # PostgreSQL username
-        'PASSWORD': 'arunakatam85@SAI1',  # PostgreSQL password
+        'NAME': 'Replace with your PostgreSQL database name',      
+        'USER': 'PostgreSQL username',       
+        'PASSWORD': 'PostgreSQL password',   
         'HOST': 'localhost',         # or your PostgreSQL server IP address
         'PORT': '5432',              # Default PostgreSQL port
         # 'ENGINE': 'django.db.backends.sqlite3',
